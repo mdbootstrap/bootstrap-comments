@@ -1,25 +1,28 @@
 {
-  "name": "bootstrap-avatars",
-  "version": "1.0.4",
-  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
-  "main": "profile.html",
+  "name": "bootstrap-comments",
+  "version": "1.0.0",
+  "description": "Responsive Comment Box built with the Bootstrap 5. Comment with avatar, nested comments, comment with reply, comment section, comment template, unread comments, comment form.",
+  "main": "basic.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-comments.git"
   },
   "keywords": [
     "bootstrap",
-    "avatar",
+    "comments",
     "bootstrap5",
-    "circle-image-view"
+    "reply-comments",
+    "comment-section",
+    "unread-comments",
+    "comments-form"
   ],
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-avatars/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-comments/issues"
   },
-  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/"
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/comments/"
 }
